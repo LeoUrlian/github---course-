@@ -1,5 +1,5 @@
 # Git Course
-hfdjhdhfdjfjfhdj
+
 Este é um repositório para mostrar como o git funciona, ou seja, um teste
 
 Facebook - Leonardo Sudati Urlian
